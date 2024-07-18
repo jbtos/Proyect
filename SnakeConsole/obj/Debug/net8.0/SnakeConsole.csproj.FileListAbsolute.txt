@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\bin\Debug\net8.0\SnakeConsole.exe
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\bin\Debug\net8.0\SnakeConsole.deps.json
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\bin\Debug\net8.0\SnakeConsole.runtimeconfig.json
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\bin\Debug\net8.0\SnakeConsole.dll
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\bin\Debug\net8.0\SnakeConsole.pdb
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.dll
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\refint\SnakeConsole.dll
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.pdb
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\SnakeConsole.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\SnakeConsole\SnakeConsole\obj\Debug\net8.0\ref\SnakeConsole.dll
